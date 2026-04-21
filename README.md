@@ -1,5 +1,7 @@
 # Nexus - Federated Knowledge Graph Engine
 
+[![CI](https://github.com/moggan1337/Nexus/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/Nexus/actions/workflows/ci.yml)
+
 <div align="center">
 
 ![Nexus Logo](https://img.shields.io/badge/Nexus-Knowledge%20Graph-4A90D9?style=for-the-badge)
@@ -14,6 +16,24 @@
 </div>
 
 ---
+
+## 🎬 Demo
+![Nexus Demo](demo.gif)
+
+*Federated knowledge graph with CRDT sync*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Graph Explorer | ![explorer](screenshots/graph-explorer.png) |
+| Federation Status | ![federation](screenshots/federation.png) |
+| Query Builder | ![query](screenshots/query-builder.png) |
+
+## Visual Description
+Graph explorer shows entities and relationships with interactive navigation. Federation status displays connected knowledge bases with sync state. Query builder provides visual query construction.
+
+---
+
 
 ## Table of Contents
 
